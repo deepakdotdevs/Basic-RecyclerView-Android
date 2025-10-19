@@ -15,6 +15,13 @@ This project showcases how to display a dynamic list of items efficiently with a
 
 ---
 
+## 📄 **Project Documentation**
+
+You can check out the complete project explanation and implementation details in the PDF below:  
+
+👉 [**📘 Open Recycler View Documentation (PDF)**](./Recycler%20View.pdf)
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin / Java (based on your code)  
