@@ -82,9 +82,43 @@ This project helps you understand:
 
 ---
 
+Got it ✅ You want that final section (from **“Clone this repository”** to **“Show Some Love”**) written cleanly in **Markdown code format** — so you can paste it directly into your README.
+
+Here’s the perfectly formatted version 👇
+
+---
+
+````markdown
 ## ⚡ How to Run
 
-1. Clone this repository  
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
+````
+
+2. **Open in Android Studio**
+3. **Sync Gradle files** and click ▶️ **Run**
+
+---
+
+## 👨‍💻 Author
+
+**Deepak Jangid**
+📍 *B.Tech CSE | Aspiring Android Developer*
+
+🌐 Connect with me:
+[💼 LinkedIn](https://www.linkedin.com/in/) • [🎥 YouTube](https://youtube.com/) • [🐙 GitHub](https://github.com/DeepakJangid)
+
+---
+
+## ⭐ Show Some Love
+
+If you found this project helpful, don’t forget to **star ⭐ the repository** — it motivates me to build and share more awesome projects like this!
+
+```
+
+---
+
+Would you like me to insert your **actual GitHub, YouTube, and LinkedIn links** in the above section too (instead of placeholders)?
+```
 
