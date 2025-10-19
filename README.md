@@ -60,7 +60,7 @@ RecyclerViewDemo/
 
 | App UI Preview | RecyclerView Example |
 |:---------------:|:--------------------:|
-| <img src="app/screenshots/1.jpeg" width="300"/> | <img src="app/screenshots/2.jpeg" width="300"/> |
+| <img src="app/screenshots/1.jpeg" width="300"/> | <img src="app/screenshots/2.png" width="300"/> |
 
 ---
 
