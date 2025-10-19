@@ -31,10 +31,12 @@ This project showcases how to display a dynamic list of items efficiently with a
 
 RecyclerViewDemo/
 │
-
 ├── app/
+
 │ ├── src/
+
 │ │ ├── main/
+
 │ │ │ ├── java/... (App Logic)
 │ │ │ ├── res/... (Layouts, Drawables)
 │ ├── screenshots/
