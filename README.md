@@ -107,7 +107,7 @@ Here’s the perfectly formatted version 👇
 📍 *B.Tech CSE | Aspiring Android Developer*
 
 🌐 Connect with me:
-[💼 LinkedIn](https://www.linkedin.com/in/) • [🎥 YouTube](https://youtube.com/) • [🐙 GitHub](https://github.com/DeepakJangid)
+[💼 LinkedIn](https://www.linkedin.com/in/deepak-jangid-89954a317/) • [🎥 YouTube](https://www.youtube.com/@DreamHustleWithDeepak) • [🐙 GitHub](https://github.com/deepakdotdevs)
 
 ---
 
