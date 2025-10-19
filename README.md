@@ -93,7 +93,7 @@ Here’s the perfectly formatted version 👇
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/deepakdotdevs/Basic-RecyclerView-Android
 ````
 
 2. **Open in Android Studio**
