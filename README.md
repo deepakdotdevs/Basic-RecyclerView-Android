@@ -116,9 +116,3 @@ Here’s the perfectly formatted version 👇
 If you found this project helpful, don’t forget to **star ⭐ the repository** — it motivates me to build and share more awesome projects like this!
 
 ```
-
----
-
-Would you like me to insert your **actual GitHub, YouTube, and LinkedIn links** in the above section too (instead of placeholders)?
-```
-
