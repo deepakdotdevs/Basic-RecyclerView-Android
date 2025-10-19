@@ -114,5 +114,3 @@ Here’s the perfectly formatted version 👇
 ## ⭐ Show Some Love
 
 If you found this project helpful, don’t forget to **star ⭐ the repository** — it motivates me to build and share more awesome projects like this!
-
-```
