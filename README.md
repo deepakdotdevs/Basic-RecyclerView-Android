@@ -30,7 +30,9 @@ This project showcases how to display a dynamic list of items efficiently with a
 ## 📂 Project Structure
 
 RecyclerViewDemo/
+
 │
+
 ├── app/
 
 │ ├── src/
@@ -38,11 +40,17 @@ RecyclerViewDemo/
 │ │ ├── main/
 
 │ │ │ ├── java/... (App Logic)
+
 │ │ │ ├── res/... (Layouts, Drawables)
+
 │ ├── screenshots/
+
 │ │ ├── 1.jpeg
+
 │ │ └── 2.jpeg
+
 │
+
 └── README.md
 
 
