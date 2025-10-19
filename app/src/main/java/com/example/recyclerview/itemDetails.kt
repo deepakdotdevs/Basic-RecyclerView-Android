@@ -1,6 +1,6 @@
 package com.example.recyclerview
 
 data class itemDetails(
-    val name : String,
+    val title : String,
     val description : String
 )
